@@ -1,0 +1,114 @@
+:root {
+	--body-text-color: #002B36;
+	--background-color: #FFFFFF;
+	--accent-color: #2AA198;
+	--highlight-color: #DC322F;
+	--body-text-font: "Inter";
+	--headings-text-font: "Eczar";
+	--body-text-size: 1rem;
+	--body-text-size-lg: 1.2rem;
+	--nav-text-size: 1.2rem;
+	--nav-text-size-lg: 1.5rem;
+	--h1-text-size: 3rem;
+	--nav-margin: 1rem 1rem 1rem 1rem;
+}
+
+body {
+	font-family: var(--body-text-font), sans-serif;
+	font-size: var(--body-text-size);
+	font-weight: normal;
+	font-style: normal;
+	font-optical-sizing: auto;
+	background-color: var(--background-color);
+	color: var(--body-text-color);
+	line-height: 1.6rem;
+}
+
+a {
+	color: var(--accent-color);
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--highlight-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--headings-text-font), sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: var(--h1-text-size);
+}
+
+img {
+	max-width: 100%;
+}
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	margin-bottom: 0;
+}
+
+nav {
+	font-family: var(--headings-text-font), sans-serif;
+	font-size: var(--nav-text-size);
+	padding: var(--nav-margin);
+}
+
+main {
+	margin: 0 auto;
+}
+
+section.list ul {
+	padding-left: 1em;
+}
+
+footer {
+
+}
+
+@media (min-width: 576px) {
+	main {
+		max-width: 90%;
+		margin: 0 auto;
+	}
+}
+
+@media (min-width: 768px) {
+	header h1 {
+		margin-top: 3rem;
+		margin-bottom: 1.2rem;
+	}
+	main {
+		max-width: 80%;
+		margin: 0 auto;
+	}
+}
+@media (min-width: 992px) {
+	main {
+		max-width: 70%;
+		margin: 0 auto;
+	}
+}
+@media (min-width: 1200px) {
+	body {
+		font-size: var(--body-text-size-lg);
+	}
+	nav {
+		font-size: var(--nav-text-size-lg);
+	}
+	main {
+		max-width: 60%;
+	}
+}
+@media (min-width: 1400px) {
+	main {
+		max-width: 840px;
+	}
+}

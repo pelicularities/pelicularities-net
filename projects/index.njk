@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+title: projects
+---
+
+This page is a collection of projects and other odds and ends.
+
+<section class="list">
+    <ul>
+        {%- for project in collections.project | reverse -%}
+        <li>
+            <time class="published" datetime="{{ project.page.date.toISOString() }}">{{ project.page.date | isoDate }}</time>:
+            <a href={{ project.url }} title="{{ project.data.title }}">{{ project.data.title }}</a>
+        </li>
+        {%- endfor -%}
+    </ul>
+</section>

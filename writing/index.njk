@@ -1,0 +1,16 @@
+---
+layout: layout.njk
+title: writing
+---
+
+Here's a collection of a lot of things I've written over the years.
+<section class="list">
+    <ul>
+        {%- for post in collections.post | reverse -%}
+        <li>
+            <time class="published" datetime="{{ post.page.date.toISOString() }}">{{ post.page.date | isoDate }}</time>:
+            <a href={{ post.url }} title="{{ post.data.title }}">{{ post.data.title }}</a>
+        </li>
+        {%- endfor -%}
+    </ul>
+</section>
