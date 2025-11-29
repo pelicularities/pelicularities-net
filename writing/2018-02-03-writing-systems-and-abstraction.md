@@ -2,8 +2,8 @@
 layout: post.njk
 title: "Writing Systems: Signs, Icons, Symbols and Abstraction"
 date: 2018-02-03
-excerpt: "How does abstraction help to make writing a tractable problems for the human brain?"
-tags: post
+excerpt: "How does abstraction help to make writing a tractable problem for the human brain?"
+tags: ["post", "abstraction"]
 permalink: /writing-systems-and-abstraction/
 ---
 In my last post, I wrote about [abstraction in computer engineering](/layers-of-abstraction/). In today’s post, I want to start laying the foundation for looking at abstraction in two other fields, in visual arts and in linguistics. To do that, we’ll start in a place where the two fields overlap: writing systems.

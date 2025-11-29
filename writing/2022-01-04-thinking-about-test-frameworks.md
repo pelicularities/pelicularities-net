@@ -3,7 +3,7 @@ layout: post.njk
 title: "Thinking About Test Frameworks"
 date: 2022-01-04
 excerpt: "What does a minimum viable test framework look like? Part 2 of 2."
-tags: post
+tags: ["post", "software-engineering"]
 permalink: /thinking-about-test-frameworks/
 ---
 Yesterday, [I wrote a post](/thinking-about-testing) about why and how to write tests, inspired by my most recent project. The gist of it is that the key purpose of automated tests is to provide fast feedback. I ended the previous post with a remark that **the need for fast feedback is the reason test frameworks exist.**

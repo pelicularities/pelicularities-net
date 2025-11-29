@@ -3,7 +3,7 @@ layout: post.njk
 title: "Spanish neorealism in comparison with Italian neorealism"
 date: 2013-05-14
 excerpt: "A college essay written in Spring 2013 for a graduate class on Spanish cinema."
-tags: post
+tags: ["post", "undergrad"]
 permalink: /spanish-neorealism/
 ---
 _This_ _essay was written in the Spring 2013 semester as part of a course titled Photography, Set Design and Editing in Spanish Cinema, 1925-1980 (riveting name!) at [New York University](https://www.nyu.edu/), numbered SPAN-GA 2965._

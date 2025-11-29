@@ -3,7 +3,7 @@ layout: post.njk
 title: "Orwell y el anarquismo en Cataluña"
 date: 2012-12-14
 excerpt: "A college essay written in Fall 2012 for a class on Catalan cultural history."
-tags: post
+tags: ["post", "undergrad", "spanish"]
 permalink: /orwell-anarquismo-catalunya/
 ---
 _This short essay was written as an assignment in the Fall 2012 semester as part of a course titled Barcelona at [New York University](https://www.nyu.edu/), numbered SPAN-UA 950._

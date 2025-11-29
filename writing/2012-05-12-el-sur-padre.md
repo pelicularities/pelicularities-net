@@ -3,7 +3,7 @@ layout: post.njk
 title: "El personaje del padre en El sur: carácter y caracterización"
 date: 2012-05-12
 excerpt: "A college essay written in Spring 2012 for a Spanish cinema class."
-tags: post
+tags: ["post", "undergrad", "spanish"]
 permalink: /el-sur-padre/
 ---
 _This essay was written in the Spring 2012 semester as part of the Spanish Culture Through Cinema course at [New York University](https://www.nyu.edu/), which is numbered SPAN-UA 9994._

@@ -3,7 +3,7 @@ layout: post.njk
 title: "Visual Abstraction: Velázquez, Picasso and Klee"
 date: 2018-02-11
 excerpt: "What makes abstract art challenging, and what makes it good?"
-tags: post
+tags: ["post", "abstraction"]
 permalink: /visual-abstraction/
 ---
 Let’s take a look today at a section of a very famous painting:

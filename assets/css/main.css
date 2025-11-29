@@ -1,5 +1,6 @@
 :root {
 	--body-text-color: #002B36;
+	--supplementary-background-color: #212121;
 	--background-color: #FFFFFF;
 	--accent-color: #2AA198;
 	--highlight-color: #DC322F;
@@ -11,6 +12,8 @@
 	--nav-text-size-lg: 1.5rem;
 	--h1-text-size: 3rem;
 	--nav-margin: 1rem 1rem 1rem 1rem;
+	--main-padding: 1rem 2rem 1rem 2rem;
+	--main-border-radius: 1rem;
 }
 
 body {
@@ -19,9 +22,8 @@ body {
 	font-weight: normal;
 	font-style: normal;
 	font-optical-sizing: auto;
-	background-color: var(--background-color);
+	background-color: var(--supplementary-background-color);
 	color: var(--body-text-color);
-	line-height: 1.6rem;
 }
 
 a {
@@ -62,7 +64,10 @@ nav {
 }
 
 main {
+	background-color: var(--background-color);
 	margin: 0 auto;
+	padding: var(--main-padding);
+	border-radius: var(--main-border-radius);
 }
 
 section.list ul {
@@ -81,6 +86,9 @@ footer {
 }
 
 @media (min-width: 768px) {
+	body {
+		line-height: 1.4rem;
+	}
 	header h1 {
 		margin-top: 3rem;
 		margin-bottom: 1.2rem;
@@ -91,6 +99,9 @@ footer {
 	}
 }
 @media (min-width: 992px) {
+	body {
+		line-height: 1.6rem;
+	}
 	main {
 		max-width: 70%;
 		margin: 0 auto;

@@ -3,7 +3,7 @@ layout: post.njk
 title: "Thinking About Testing"
 date: 2022-01-03
 excerpt: "What is a test? Why write tests? How do you write tests? Part 1 of 2."
-tags: post
+tags: ["post", "software-engineering"]
 permalink: /thinking-about-testing/
 ---
 Over the course of my last project, I found myself examining many of my own implicit assumptions about testing. I'd like to explore some of them today and share what I've learned.

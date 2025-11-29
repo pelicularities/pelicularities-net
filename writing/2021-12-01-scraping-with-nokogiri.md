@@ -3,7 +3,7 @@ layout: post.njk
 title: "Scraping With Nokogiri"
 date: 2021-12-01
 excerpt: "Using Nokogiri to scrape information from HTML pages: a worked example."
-tags: post
+tags: ["post", "software-engineering", "ruby"]
 permalink: /scraping-with-nokogiri/
 ---
 Thinking about little things that I've done or played with recently that I am at liberty to share, here's a fun little one using [Nokogiri](https://nokogiri.org/) to solve an entirely self-inflicted problem.

@@ -3,7 +3,7 @@ layout: post.njk
 title: "La inmigración marroquí y musulmana y el “islamización” de España"
 date: 2012-05-14
 excerpt: "A college essay written in Spring 2012 for a class on Islam and Spain."
-tags: post
+tags: ["post", "undergrad", "spanish"]
 permalink: /islam-and-spain/
 ---
 _This essay was written in the Spring 2012 semester as part of the Islam and Spain: Past and Present course at [New York University](https://www.nyu.edu/), which is now numbered SPAN-UA 9333 (formerly SPAN-UA 9950)._

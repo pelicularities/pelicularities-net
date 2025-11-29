@@ -3,7 +3,7 @@ layout: post.njk
 title: "Advice for Le Wagon Web Dev Bootcamp grads"
 date: 2022-03-05
 excerpt: "Congrats, you're done with Le Wagon's Web Development bootcamp. What's next?"
-tags: post
+tags: ["post", "junior-dev"]
 permalink: /advice-for-web-dev-bootcamp-grads/
 ---
 Congrats, you're done with [Le Wagon's Web Development bootcamp](https://www.lewagon.com/web-development-course/full-time). You have 360 hours of classroom time, three Rails applications, and zero professional software development experience. What's next?

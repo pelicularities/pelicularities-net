@@ -3,7 +3,7 @@ layout: post.njk
 title: "Thinking About Computation"
 date: 2020-12-30
 excerpt: "Breaking out of tutorial hell by understanding how to move between different layers of abstraction."
-tags: post
+tags: ["post", "abstraction"]
 permalink: /thinking-about-computation/
 ---
 In the beginning were zeroes and ones, and the zeroes and ones were with Boolean operators, and the zeroes and ones and Boolean operators were two-element Boolean algebra. All computation was made through Boolean algebra, and without Boolean algebra was not any computation made that was made. There is only so far I can take this strained analogy, before I start comparing Leibniz with John the Baptist.

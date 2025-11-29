@@ -3,7 +3,7 @@ layout: post.njk
 title: "Handling date strings and timezones in JavaScript"
 date: 2021-02-15
 excerpt: "Vanilla JavaScript doesn't have very good date/time handling. Here's one approach to dealing with dates/times in vanilla JS."
-tags: post
+tags: ["post", "software-engineering", "javascript"]
 permalink: /handling-date-strings-and-timezones-in-javascript/
 ---
 Here is a simple scenario: you're writing client-side JavaScript. You query an API with a city name, and it returns with a bunch of useful information about the city, including the timezone, in this format:

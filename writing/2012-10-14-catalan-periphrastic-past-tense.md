@@ -3,7 +3,7 @@ layout: post.njk
 title: "Development of the Catalan periphrastic past tense construction"
 date: 2012-10-14
 excerpt: "A college essay written in Fall 2012 for a class on Indo-European syntax."
-tags: post
+tags: ["post", "undergrad"]
 permalink: /catalan-periphrastic-past-tense/
 ---
 _This essay was written in the Fall 2012 semester as part of the Indo-European Syntax course at [New York University](https://www.nyu.edu/), which was then numbered LING-UA 36._

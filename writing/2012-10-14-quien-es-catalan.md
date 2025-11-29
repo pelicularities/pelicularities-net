@@ -3,7 +3,7 @@ layout: post.njk
 title: "¿Quién es catalán?"
 date: 2012-10-14
 excerpt: "A college essay written in Fall 2012 for a class on Catalan cultural history."
-tags: post
+tags: ["post", "undergrad", "spanish"]
 permalink: /quien-es-catalan/
 ---
 _This is a summary of a book chapter from [Double Talk](https://www.sup.org/books/title/?id=3822) by Kathryn Woolard, written as an assignment in the Fall 2012 semester as part of a course titled Barcelona at [New York University](https://www.nyu.edu/), numbered SPAN-UA 950._

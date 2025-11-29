@@ -3,7 +3,7 @@ layout: post.njk
 title: "Writing the Essay: Beethoven"
 date: 2011-03-03
 excerpt: "A college essay written in Spring 2011 for a freshman expository writing class."
-tags: post
+tags: ["post", "undergrad"]
 permalink: /beethoven/
 ---
 _This essay was written in the Spring 2011 semester as part of the Writing The Essay: The World Through Art course at [New York University](https://www.nyu.edu/), which is now numbered ASPP-UT 2._

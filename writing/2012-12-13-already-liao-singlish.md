@@ -3,7 +3,7 @@ layout: post.njk
 title: "Already / Liao as aspect marker in Singlish"
 date: 2012-12-13
 excerpt: "A college essay written in Fall 2012 for a class on Indo-European syntax."
-tags: post
+tags: ["post", "undergrad"]
 permalink: /already-liao-singlish/
 ---
 _This essay was written in the Fall 2012 semester as part of the Indo-European Syntax course at [New York University](https://www.nyu.edu/), which was then numbered LING-UA 36. It has been lightly modified from the version I submitted for class._

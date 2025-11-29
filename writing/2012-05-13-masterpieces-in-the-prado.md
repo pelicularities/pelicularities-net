@@ -3,7 +3,7 @@ layout: post.njk
 title: "La fuerza y la dignidad en dos cuadros de historia españoles"
 date: 2012-05-13
 excerpt: "A college essay written in Spring 2012 for an art history class based on works in the Prado museum."
-tags: post
+tags: ["post", "undergrad", "spanish"]
 permalink: /masterpieces-in-the-prado/
 ---
 _This essay was written in the Spring 2012 semester as part of the Masterpieces in the Prado course at [New York University](https://www.nyu.edu/), which is numbered ARTH-UA 9328._

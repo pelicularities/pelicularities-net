@@ -3,7 +3,7 @@ layout: post.njk
 title: "Applying to MCIT"
 date: 2022-03-05
 excerpt: "Questions I've been asked about applying to Penn's online MCIT program."
-tags: post
+tags: ["post", "junior-dev", "mcit"]
 permalink: /applying-to-mcit/
 ---
 I enrolled in the [University of Pennsylvania's](https://www.upenn.edu/) [online Master of Computer and Information Technology](https://online.seas.upenn.edu/degrees/mcit-online/) program in Spring 2021 and since then, a number of people have reached out to ask me about applying to MCIT. Since most potential applicants have the same questions and I find myself repeating the same answers, I figured I might as well put my thoughts all in one place.

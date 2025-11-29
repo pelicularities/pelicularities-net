@@ -3,7 +3,7 @@ layout: post.njk
 title: "Layers of Abstraction"
 date: 2018-01-27
 excerpt: "The essence of abstractions is preserving information that is relevant in a given context, and forgetting information that is irrelevant in that context. – John V. Guttag"
-tags: post
+tags: ["post", "abstraction"]
 permalink: /layers-of-abstraction/
 ---
 > The essence of abstractions is preserving information that is relevant in a given context, and forgetting information that is irrelevant in that context. – John V. Guttag (from [Introduction to Computation and Programming Using Python](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262519631))

@@ -3,7 +3,7 @@ layout: post.njk
 title: "Writing the Essay: Art is a Wild Animal"
 date: 2010-10-29
 excerpt: "A college essay written in Fall 2010 for a freshman expository writing class."
-tags: post
+tags: ["post", "undergrad"]
 permalink: /art-is-a-wild-animal/
 ---
 _This essay was written in the Fall 2010 semester as part of the Writing The Essay: Art in the World course at [New York University](https://www.nyu.edu/), which is now numbered EXPOS-UA 5._
