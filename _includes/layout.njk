@@ -21,9 +21,11 @@
         <a href="/projects">projects</a>
     </nav>
 </header>
+{% block content %}
 <main>
     {{ content | safe }}
 </main>
+{% endblock %}
 <footer>
 
 </footer>

@@ -2,6 +2,7 @@
 	--body-text-color: #002B36;
 	--supplementary-background-color: #212121;
 	--background-color: #FFFFFF;
+	--supplementary-light-color: #8A8A8A;
 	--accent-color: #2AA198;
 	--highlight-color: #DC322F;
 	--body-text-font: "Inter";
@@ -12,7 +13,7 @@
 	--nav-text-size-lg: 1.5rem;
 	--h1-text-size: 3rem;
 	--nav-margin: 1rem 1rem 1rem 1rem;
-	--main-padding: 1rem 2rem 1rem 2rem;
+	--main-padding: 1rem;
 	--main-border-radius: 1rem;
 }
 
@@ -45,6 +46,11 @@ h1 {
 	font-size: var(--h1-text-size);
 }
 
+h2, h3, h4, h5, h6 {
+	line-height: 1.6rem;
+	margin-bottom: 0.5rem;
+}
+
 img {
 	max-width: 100%;
 }
@@ -74,6 +80,25 @@ section.list ul {
 	padding-left: 1em;
 }
 
+blockquote {
+	border-left: 0.25rem solid var(--supplementary-light-color);
+	padding-left: 1rem;
+	margin: 0;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+table td {
+	padding: 0.25rem;
+	border: 1px solid var(--supplementary-light-color);
+}
+table th {
+	padding: 0.25rem;
+	border: 1px solid var(--supplementary-light-color)
+}
+
 footer {
 
 }
@@ -93,14 +118,21 @@ footer {
 		margin-top: 3rem;
 		margin-bottom: 1.2rem;
 	}
+	h2, h3, h4, h5, h6 {
+		line-height: 2rem;
+	}
 	main {
 		max-width: 80%;
 		margin: 0 auto;
+		padding: 1rem 2rem;
 	}
 }
 @media (min-width: 992px) {
 	body {
 		line-height: 1.6rem;
+	}
+	h2, h3, h4, h5, h6 {
+		line-height: 2.4rem;
 	}
 	main {
 		max-width: 70%;

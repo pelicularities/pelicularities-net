@@ -14,27 +14,79 @@ In the Catalan language, there are three important periphrastic constructions th
 
 The periphrastic past tense construction is of interest to us for several reasons. Firstly, the conjugation used is not the standard present tense conjugation of _anar_. _Anar_ in the present tense normally conjugates as follows:
 
-#### 1. Standard present tense conjugation of _anar_
+### 1. Standard present tense conjugation of _anar_
 
-| 1<sup>st</sup> person singular | (1s)  | vaig | 
-| 1<sup>st</sup> person plural   | (1pl) | anem |
-| 2<sup>nd</sup> person singular | (2s)  | vas  |
-| 2<sup>nd</sup> person plural   | (2pl) | aneu |
-| 3<sup>rd</sup> person singular | (3s)  | va   |
-| 3<sup>rd</sup> person plural   | (3pl) | van  |
+<table>
+    <tr>
+        <td>1<sup>st</sup> person singular</td>
+        <td>(1s)</td>
+        <td>vaig</td>
+    </tr>
+    <tr>
+        <td>1<sup>st</sup> person plural</td>
+        <td>(1pl)</td>
+        <td>anem</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person singular</td>
+        <td>(2s)</td>
+        <td>vas</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person plural</td>
+        <td>(2pl)</td>
+        <td>aneu</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person singular</td>
+        <td>(3s)</td>
+        <td>va</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person plural</td>
+        <td>(3pl)</td>
+        <td>van</td>
+    </tr>
+</table>
 
 The irregular conjugation is due to syncretism of the Latin verbs _amnare_ and _vadere_ as they evolved into Catalan; an _ir-_ root also appears in the future and conditional conjugations of standard modern Catalan, derived from Latin _ire._ (“anar”, _Diccionari_) This syncretism can also be found in many of the Western Romance languages, such as Spanish and Portuguese _ir_ (syncretism of Latin _ire_, _vadere_ and the perfect forms of _esse_) and Italian _andare_ (syncretism of Latin _amnare_ and _vadere_).
 
 However, when _anar_ is used as part of the periphrastic past tense, it &nbsp;conjugates as follows:
 
-#### 2. Present tense conjugation of _anar_ in periphrastic past tense
+### 2. Present tense conjugation of _anar_ in periphrastic past tense
 
-| 1<sup>st</sup> person singular | (1s)  | vaig    | 
-| 1<sup>st</sup> person plural   | (1pl) | **vam** |
-| 2<sup>nd</sup> person singular | (2s)  | vas     |
-| 2<sup>nd</sup> person plural   | (2pl) | **vau** |
-| 3<sup>rd</sup> person singular | (3s)  | va      |
-| 3<sup>rd</sup> person plural   | (3pl) | van     |
+<table>
+    <tr>
+        <td>1<sup>st</sup> person singular</td>
+        <td>(1s)</td>
+        <td>vaig</td>
+    </tr>
+    <tr>
+        <td>1<sup>st</sup> person plural</td>
+        <td>(1pl)</td>
+        <td><strong>vam</strong></td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person singular</td>
+        <td>(2s)</td>
+        <td>vas</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person plural</td>
+        <td>(2pl)</td>
+        <td><strong>vau</strong></td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person singular</td>
+        <td>(3s)</td>
+        <td>va</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person plural</td>
+        <td>(3pl)</td>
+        <td>van</td>
+    </tr>
+</table>
 
 Besides the non-standard conjugation, this periphrastic construction is also significant because of its function. Other Western Romance languages have a formally similar construction that is functionally distinct. In French, for example, the _aller_ (“to go”) _+ infinitive_ construction is formally equivalent to the Catalan periphrastic past, but this construction in French serves instead as a periphrastic _future_ tense, rather than as a past tense. The same happens in Portuguese with a periphrastic _ir_ (“to go”) _+ infinitive_ future tense construction. As mentioned previously, Spanish has an _ir a + infinitive_ construction that functions as a future tense. Among the major Western Romance languages, Catalan is the only language to form a periphrastic past tense with a present tense form of the auxiliary verb “to go”.
 
@@ -44,47 +96,151 @@ Another reason the periphrastic past tense construction is of interest to us is 
 
 Badia has reconstructed, using “traces that are found in the texts”, a possible early form of the conjugation of _anar_ as used in the periphrastic present and past tenses (_Gramàtica Històrica Catalana_ 370):
 
-#### 3. Possible historical present tense conjugation of _anar_
+### 3. Possible historical present tense conjugation of _anar_
 
-| 1<sup>st</sup> person singular | (1s)  | vau       | 
-| 1<sup>st</sup> person plural   | (1pl) | **anam**  |
-| 2<sup>nd</sup> person singular | (2s)  | vas       |
-| 2<sup>nd</sup> person plural   | (2pl) | **anats** |
-| 3<sup>rd</sup> person singular | (3s)  | va /vai   |
-| 3<sup>rd</sup> person plural   | (3pl) | van       |
+<table>
+    <tr>
+        <td>1<sup>st</sup> person singular</td>
+        <td>(1s)</td>
+        <td>vau</td>
+    </tr>
+    <tr>
+        <td>1<sup>st</sup> person plural</td>
+        <td>(1pl)</td>
+        <td><strong>anam</strong></td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person singular</td>
+        <td>(2s)</td>
+        <td>vas</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person plural</td>
+        <td>(2pl)</td>
+        <td><strong>anats</strong></td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person singular</td>
+        <td>(3s)</td>
+        <td>va /vai</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person plural</td>
+        <td>(3pl)</td>
+        <td>van</td>
+    </tr>
+</table>
 
-#### 4. Possible historical preterite conjugation of _anar_
+### 4. Possible historical preterite conjugation of _anar_
 
-| 1<sup>st</sup> person singular | (1s)  | aní / ané | 
-| 1<sup>st</sup> person plural   | (1pl) | **anam**  |
-| 2<sup>nd</sup> person singular | (2s)  | anist     |
-| 2<sup>nd</sup> person plural   | (2pl) | **anats** |
-| 3<sup>rd</sup> person singular | (3s)  | anà       |
-| 3<sup>rd</sup> person plural   | (3pl) | anaren    |
+<table>
+    <tr>
+        <td>1<sup>st</sup> person singular</td>
+        <td>(1s)</td>
+        <td>aní / ané</td>
+    </tr>
+    <tr>
+        <td>1<sup>st</sup> person plural</td>
+        <td>(1pl)</td>
+        <td><strong>anam</strong></td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person singular</td>
+        <td>(2s)</td>
+        <td>anist</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person plural</td>
+        <td>(2pl)</td>
+        <td><strong>anats</strong></td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person singular</td>
+        <td>(3s)</td>
+        <td>anà</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person plural</td>
+        <td>(3pl)</td>
+        <td>anaren</td>
+    </tr>
+</table>
 
 Badia suggests that as the preterite form became replaced by the periphrastic form, the fact that the 1pl and 2pl forms of _anar_ in the present tense and simple past were identical, coupled with the “constant mix of the historical present and the perfect in old texts”, caused the present tense to be substituted for the preterite in the auxiliary verb _anar,_ resulting in a conjugation that corresponds to the one still used in the modern Algherese dialect of Catalan (_Gramática Històrica_ 371):
 
-#### 5. Present tense conjugation of _anar_ in modern Algherese, used in the periphrastic past tense
+### 5. Present tense conjugation of _anar_ in modern Algherese, used in the periphrastic past tense
 
-| 1<sup>st</sup> person singular | (1s)  | vaig  | 
-| 1<sup>st</sup> person plural   | (1pl) | anam  |
-| 2<sup>nd</sup> person singular | (2s)  | vas   |
-| 2<sup>nd</sup> person plural   | (2pl) | anats |
-| 3<sup>rd</sup> person singular | (3s)  | va    |
-| 3<sup>rd</sup> person plural   | (3pl) | van   |
+<table>
+    <tr>
+        <td>1<sup>st</sup> person singular</td>
+        <td>(1s)</td>
+        <td>vaig</td>
+    </tr>
+    <tr>
+        <td>1<sup>st</sup> person plural</td>
+        <td>(1pl)</td>
+        <td>anam</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person singular</td>
+        <td>(2s)</td>
+        <td>vas</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person plural</td>
+        <td>(2pl)</td>
+        <td>anats</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person singular</td>
+        <td>(3s)</td>
+        <td>va</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person plural</td>
+        <td>(3pl)</td>
+        <td>van</td>
+    </tr>
+</table>
 
 Badia postulates that once the periphrastic past tense became a definitive substitute for the simple past tense, Catalan speakers began to treat, for example, _va venir_ (“he came”) as a single unit, almost as if it were a synthetic form of the verb with an inflected prefix (_Gramàtica Històrica_ 371). Thus, he argues that the 1pl and 2pl forms became regularized to _vam_ and _vau_ to match the other conjugated forms, resulting in the modern standard Catalan conjugation of _vaig, vas, va, vam, vau_ and _van_ (_Gramàtica Històrica_ 371). Because the regularization was tied specifically to the use of _anar_ as an auxiliary, this did not affect the standard conjugation, creating the distinction we see today in the two different conjugations of _anar_.
 
 There is an alternative conjugation, used only in the periphrastic _anar + infinitive_ construction, that occurs in free variation in Central Catalan with the conjugation shown above in Table 1:
 
-#### 6. Alternative present tense conjugation of _anar_ in periphrastic past tense
+### 6. Alternative present tense conjugation of _anar_ in periphrastic past tense
 
-| 1<sup>st</sup> person singular | (1s)  | vàreig | 
-| 1<sup>st</sup> person plural   | (1pl) | vàrem  |
-| 2<sup>nd</sup> person singular | (2s)  | vàres  |
-| 2<sup>nd</sup> person plural   | (2pl) | vàreu  |
-| 3<sup>rd</sup> person singular | (3s)  | va     |
-| 3<sup>rd</sup> person plural   | (3pl) | varen  |
+<table>
+    <tr>
+        <td>1<sup>st</sup> person singular</td>
+        <td>(1s)</td>
+        <td>vàreig</td>
+    </tr>
+    <tr>
+        <td>1<sup>st</sup> person plural</td>
+        <td>(1pl)</td>
+        <td>vàrem</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person singular</td>
+        <td>(2s)</td>
+        <td>vàres</td>
+    </tr>
+    <tr>
+        <td>2<sup>nd</sup> person plural</td>
+        <td>(2pl)</td>
+        <td>vàreu</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person singular</td>
+        <td>(3s)</td>
+        <td>va</td>
+    </tr>
+    <tr>
+        <td>3<sup>rd</sup> person plural</td>
+        <td>(3pl)</td>
+        <td>varen</td>
+    </tr>
+</table>
 
 The variant forms _vàreig_, _vàres, vàrem, vàreu_ and _varen_, Badia argues, came about because if the present tense 3pl conjugation _van_ were a regular conjugation, this would yield a preterite 3pl conjugation of _varen_, and consequently a _var-_ root propagated into the 1s, 2s, 1pl and 2pl forms with varying degrees of incidence (_Gramàtica Històrica_ 371). This argument seems plausible because if _varen_ were indeed the preterite 3pl form of a verb _var_, the preterite 3s form of the verb would remain _va_ (compare preterite 3s conjugation _cantà_ for the verb _cantar_). Badia also notes that of the _var-_ forms of the verb, the 1s _vàreig_ is the least commonly used, which lines up with his hypothesis of a regularized _var_- form; in this conjugation, _vàreig_ would be an irregular form (compare preterite 1s conjugation _cantí_ for _cantar_) and it makes sense that it occurs less often than the others. (_Gramàtica Històrica_ 371)
 
