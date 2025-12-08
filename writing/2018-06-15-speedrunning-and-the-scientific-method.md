@@ -18,7 +18,8 @@ I sound like I think speedrunning is a waste of time, which is not the case. It�
 
 I was still pondering this question when I decided to watch a video by [Summoning Salt](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w), about the most infamous level in Super Mario Bros:
 
-<iframe class="video" src="https://www.youtube.com/embed/i1AHCaokqhg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/i1AHCaokqhg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 _4-2: The History of Super Mario Bros.' Most Infamous Level, by Summoning Salt_
 
 Summoning Salt is a real historian of speedrunning, and a really good storyteller, able to carve out the broad arcs of each game’s story while clearly explaining the little details that motivate each breakthrough. I quickly became a fan. I watched his [Super Mario Bros](https://www.youtube.com/watch?v=RdAkY7RfajY) video, then his [Pokémon Red/Blue](https://www.youtube.com/watch?v=u0aRVjtjmB4) video, then his [Sonic 2](https://www.youtube.com/watch?v=MvY8GEOCRdY) video, then his [Metroid](https://www.youtube.com/watch?v=qFCF4I09Avc) and [Super Metroid](https://www.youtube.com/watch?v=dNL8rdn00IU) videos, then his [Portal](https://www.youtube.com/watch?v=O69LktEvTfg) and [Half-Life 2](https://www.youtube.com/watch?v=NdkzjHEjIyA) videos, [Donkey Kong](https://www.youtube.com/watch?v=lO_EVfnvYmc) (which is something special), [Mike Tyson](https://www.youtube.com/watch?v=bt1DFNSNbRk), [Legend of Zelda](https://www.youtube.com/watch?v=kDluReuJDOk) …
@@ -30,6 +31,7 @@ And I started to realise, the real comparison here wasn’t speedrunning and spo
 As a kid, the stories of scientists that I read about tended to focus on the big breakthrough discoveries. I was especially interested in physics, and the history of early 20th century physics feels like it turns on a few major personalities: Max Born, Max Planck, Marie Curie — wait, how about this:
 
 ![A photo of attendees of the Solvay Conference in 1927, including Schrödinger, Pauli, Heisenberg, Dirac, de Broglie, Born, Bohr, Planck, Curie, Lorentz and Einstein, among others.](/assets/images/Solvay_conference_1927.jpg)
+
 _Attendees of the [Solvay Conference](https://en.wikipedia.org/wiki/Solvay_Conference#Fifth_conference) in 1927._
 
 This was my impression of what physicists did: they made earth-shattering, groundbreaking discoveries that altered the landscape of human knowledge.
@@ -67,6 +69,7 @@ It is impossible to discuss routing in many games without discussing the glitch 
 I could try to give you an example of how glitches help speedrunners to understand the game better, but it’s easier to let the experts do it. If you’ve ever played Pokémon Red/Blue/Yellow, I urge you to watch Shenanagan’s masterclass in catching all 151 Pokémon in Pokémon Blue from Summer [Games Done Quick](https://en.wikipedia.org/wiki/Games_Done_Quick) 2015:
 
 <iframe class="video" src="https://www.youtube.com/embed/wtZ7CzbxBFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 _Pokémon Blue 151 Pokémon by Shenanagans in 1:58:56 at SGDQ 2015_
 
 Many glitches have effects that are undesirable in normal gameplay, sometimes irreversibly breaking the game. However, glitches of all stripes are of interest to speedrunners because they suggest ways that the game can be manipulated, and therefore open up new routing possibilities that non-speedrunners would not even dream of considering. Some speedrunning communities maintain separate glitched and glitchless categories for speedrunners who prefer their games glitchless, but glitches are still useful discoveries in glitchless speedrunning because discoveries about the _structure_ of the game may alter the calculus of routing possibilities in glitchless speedrunning.

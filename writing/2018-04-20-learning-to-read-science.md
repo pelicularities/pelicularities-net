@@ -8,9 +8,7 @@ permalink: /learning-to-read-science/
 ---
 I’ve been trying, with mixed success, to reduce the amount of plastic waste I generate. Spending months in [Freiburg](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) will do that to you.
 
-So imagine my joy at seeing this headline in the Guardian this week:
-
-**[Scientists accidentally create mutant enzyme that eats plastic bottles](https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles)** (_The Guardian_, 16 Apr 2018)
+So imagine my joy at seeing this headline in the Guardian this week: **[Scientists accidentally create mutant enzyme that eats plastic bottles](https://www.theguardian.com/environment/2018/apr/16/scientists-accidentally-create-mutant-enzyme-that-eats-plastic-bottles)** (_The Guardian_, 16 Apr 2018)
 
 Woohoo! I no longer need to feel guilty about all the single-use packaging my groceries are in!
 

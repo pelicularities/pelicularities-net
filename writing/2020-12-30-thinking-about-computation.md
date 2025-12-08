@@ -16,11 +16,11 @@ Web developers live in a world one level lower than most end users. We don’t h
 
 How close to the metal can we get? Obviously, when you get to the level of thinking about what’s inside the processor itself, you’re living in the world of logic gates and ones and zeroes. If you’re curious about what it really means when a computer runs on ones and zeros, there are two videos that I really like and recommend:
 
-#### [Boolean Logic & Logic Gates: Crash Course Computer Science #3](https://www.youtube.com/watch?v=gI-qXk7XojA)
+<iframe src="https://www.youtube.com/embed/gI-qXk7XojA?si=MFQQ9b_-8NBifox6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Carrie Anne Philbin](https://en.wikipedia.org/wiki/Carrie_Anne_Philbin) of [Crash Course Computer Science](https://thecrashcourse.com/topic/computerscience/) talks about how transistors can be used to perform Boolean operations.
 
-#### [Domino Addition: Numberphile](https://www.youtube.com/watch?v=lNuPy-r1GuQ)
+<iframe src="https://www.youtube.com/embed/lNuPy-r1GuQ?si=gNa_VJGRRSpZPyNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Matt Parker of [Stand-Up Maths](https://www.youtube.com/user/standupmaths) and [Numberphile](https://www.youtube.com/@numberphile) builds a binary calculator by constructing logic gates out of dominoes.
 

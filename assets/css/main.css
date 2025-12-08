@@ -49,10 +49,13 @@ h1 {
 h2, h3, h4, h5, h6 {
 	line-height: 1.6rem;
 	margin-bottom: 0.5rem;
+	margin-top: 1.5rem;
 }
 
 img {
 	max-width: 100%;
+	margin: 0 auto;
+	display: block;
 }
 
 header {
@@ -97,6 +100,11 @@ table td {
 table th {
 	padding: 0.25rem;
 	border: 1px solid var(--supplementary-light-color)
+}
+
+iframe {
+	width: 100%;
+	aspect-ratio: 16 / 9;
 }
 
 footer {
