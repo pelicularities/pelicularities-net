@@ -28,11 +28,15 @@ But none of that possibility is conveyed in a sensationalist headline that focus
 
 In fact, the [Reddit post](https://www.reddit.com/r/science/comments/8d5c96/scientists_accidentally_create_mutant_enzyme_that/) on [r/science](https://www.reddit.com/r/science/) highlighting this article got flagged for a sensationalistic headline.
 
-![Screenshot in case the post disappears.](/assets/images/Read-Science-Reddit-Post.png)
-_Screenshot of the Guardian article posted on Reddit_
+<figure>
+<img src="/assets/images/Read-Science-Reddit-Post.png" alt="Screenshot in case the post disappears." />
+<figcaption>Screenshot of the Guardian article posted on Reddit</figcaption>
+</figure>
 
-![And the mod response right at the bottom.](/assets/images/Read-Science-Reddit-Post-Mod.png)
-_And the mod response on the Reddit post: "Your submission has been removed for the following reason(s): It has a sensationalized, editorialized, or biased headline..."_
+<figure>
+<img src="/assets/images/Read-Science-Reddit-Post-Mod.png" alt="And the mod response right at the bottom." />
+<figcaption>And the mod response on the Reddit post: "Your submission has been removed for the following reason(s): It has a sensationalized, editorialized, or biased headline..."</figcaption>
+</figure>
 
 ### Confusogenic Cancer Communications
 

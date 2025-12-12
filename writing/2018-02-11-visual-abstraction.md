@@ -8,15 +8,19 @@ permalink: /visual-abstraction/
 ---
 Let’s take a look today at a section of a very famous painting:
 
-![The Infanta Margarita Teresa from Las Meninas , Diego Velázquez. 1656, oil on canvas. Museo del Prado, Madrid. Full, high-resolution picture available on the Prado Museum's website .](/assets/images/EC-Visual-Abstraction-Infanta-Velazquez.jpg)
-_The Infanta Margarita Teresa from Las Meninas, Diego Velázquez. 1656, oil on canvas. Museo del Prado, Madrid. Full, high-resolution picture available on the Prado Museum's website._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Infanta-Velazquez.jpg" alt="The Infanta Margarita Teresa from Las Meninas , Diego Velázquez. 1656, oil on canvas. Museo del Prado, Madrid. Full, high-resolution picture available on the Prado Museum's website ." />
+  <figcaption>The Infanta Margarita Teresa from Las Meninas, Diego Velázquez. 1656, oil on canvas. Museo del Prado, Madrid. Full, high-resolution picture available on the Prado Museum's website.</figcaption>
+</figure>
 
 This is part of Diego Velázquez’s 1656 masterpiece, _Las Meninas_.
 
 Look at the detail in Velázquez’s painting: the brushstrokes in the hair, the shadows of the folds of the Infanta’s skirt the way light comes off the red cup and off the Infanta’s face. Naturally, the technique to create these effects were well-understood by Velázquez’s time — it’s not as if he was the only painter capable of rendering life-like figures — but I want you to pay attention to the sheer amount of _work_ needed to produce this painting in comparison to the homage made by a much later Spanish master, also considered to be on the vanguard of art for his time:
 
-![Las Meninas (Infanta Margarida Maria),  Pablo Picasso. 1957, oil on canvas. Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas  of Picasso .](/assets/images/EC-Visual-Abstraction-Infanta-Picasso.jpg)
-_Las Meninas (Infanta Margarida Maria), Pablo Picasso. 1957, oil on canvas. Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Infanta-Picasso.jpg" alt="Las Meninas (Infanta Margarida Maria), Pablo Picasso. 1957, oil on canvas. Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso ." />
+  <figcaption>Las Meninas (Infanta Margarida Maria), Pablo Picasso. 1957, oil on canvas. Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso.</figcaption>
+</figure>
 
 There are some obvious differences, of course. Picasso’s rendition of _Las Meninas_ restricts itself to white, black and grey (other versions of Picasso’s _Las Meninas_ are available in colour, but you probably shouldn’t be looking at a Picasso if life-like colour is what you want). The Infanta’s face is now characteristically [Cubist](https://en.wikipedia.org/wiki/Cubism): angular planes in different shades, rather than the smooth boundaries between light and shadow in Velázquez’s painting. Gone are Velázquez’s fine, blended brushstrokes — instead, we have Picasso’s broad bold lines.
 
@@ -30,11 +34,15 @@ If we go too far to the symbolic end of the scale, that structure becomes entire
 
 Let’s return to Velázquez and Picasso for a moment.
 
-![EC Visual Abstraction Infanta Velazquez](/assets/images/EC-Visual-Abstraction-Infanta-Velazquez-1.jpg)
-_The Infanta Margarita Teresa from Las Meninas, Diego Velázquez._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Infanta-Velazquez-1.jpg" alt="EC Visual Abstraction Infanta Velazquez" />
+  <figcaption>The Infanta Margarita Teresa from Las Meninas, Diego Velázquez.</figcaption>
+</figure>
 
-![EC Visual Abstraction Infanta Picasso](/assets/images/EC-Visual-Abstraction-Infanta-Picasso-1.jpg)
-_Las Meninas (Infanta Margarida Maria), Pablo Picasso._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Infanta-Picasso-1.jpg" alt="EC Visual Abstraction Infanta Picasso" />
+  <figcaption>Las Meninas (Infanta Margarida Maria), Pablo Picasso.</figcaption>
+</figure>
 
 Picasso has abstracted away a number of dimensions here. He isn’t concerned about the direction of light and shadow. The delicate folds on the Infanta’s skirt have been replaced by broad grey vertical brushstrokes that recall, but do not represent, shadow. In Velázquez’s painting, the sides of the Infanta’s torso are in shadow; Picasso effectively abstracts away shading (and the perspective that shading provides) by painting two fields of grey and black on the sides of the Infanta’s chest. Her cheeks receive a similar treatment. Neither does Picasso seem concerned about curves: the gentle arcs of the dress and skirt of Velázquez’s Infanta is replaced by direct and straight lines; the bulbous shape of the cup in the Infanta’s right hand transforms into an angular vessel.
 
@@ -42,8 +50,10 @@ By abstracting these elements away, Picasso reveals, essentially, a wireframe of
 
 In fact, his sketches reveal an even more abstracted version of _Las Meninas_, including an even more brutally abstract Infanta:
 
-![Crop of the Infanta Margarita Teresa from Sketch for "Las Meninas",  Pablo Picasso. 1957, blue pencil on paper (page from a sketchbook). Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas  of Picasso .](/assets/images/EC-Visual-Abstraction-Infanta-Crop-Picasso.jpg)
-_Crop of the Infanta Margarita Teresa from Sketch for "Las Meninas", Pablo Picasso. 1957, blue pencil on paper (page from a sketchbook). Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Infanta-Crop-Picasso.jpg" alt="Crop of the Infanta Margarita Teresa from Sketch for &quot;Las Meninas&quot;, Pablo Picasso. 1957, blue pencil on paper (page from a sketchbook). Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso." />
+  <figcaption>Crop of the Infanta Margarita Teresa from Sketch for "Las Meninas", Pablo Picasso. 1957, blue pencil on paper (page from a sketchbook). Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso.</figcaption>
+</figure>
 
 It looks like a child’s drawing, doesn’t it? That’s perhaps one of the greatest mysteries of the human mind — that children, looking at a scene or a painting, even one as intricate as _Las Meninas_, will instinctively isolate shape and colour, and abstract away everything else. Never mind the actual substance of the pigment on the canvas! We don’t see blue crayon on paper or ochre on canvas — the _structure_ of the image exists in our minds as something independent of the individual brushstrokes. And that’s part of the genius of Picasso, Braque, and the rest of the Cubists: they painted not according to the perception of the _eye_, but according to the perception of the _mind_.
 
@@ -55,8 +65,10 @@ It looks like a child’s drawing, doesn’t it? That’s perhaps one of the gre
 
 What happens when you remove shape from the equation, and leave only colour?
 
-![Feuer Abends (Fire in the Evening) , Paul Klee. 1929, oil on cardboard. Museum of Modern Art, New York City (picture taken while the work was on loan to the Fondation Beyeler, Riehen).](/assets/images/EC-Visual-Abstraction-Klee-Feuer-Abends.jpg)
-_Feuer Abends (Fire in the Evening), Paul Klee. 1929, oil on cardboard. Museum of Modern Art, New York City (picture taken while the work was on loan to the Fondation Beyeler, Riehen)._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Klee-Feuer-Abends.jpg" alt="Feuer Abends (Fire in the Evening) , Paul Klee. 1929, oil on cardboard. Museum of Modern Art, New York City (picture taken while the work was on loan to the Fondation Beyeler, Riehen)." />
+  <figcaption>Feuer Abends (Fire in the Evening), Paul Klee. 1929, oil on cardboard. Museum of Modern Art, New York City (picture taken while the work was on loan to the Fondation Beyeler, Riehen).</figcaption>
+</figure>
 
 Paul Klee’s _Fire in the Evening_ is a painting that, without its title, is difficult to anchor to the real world. Nonetheless, there are things we can read from it, if we know what to look for. Klee’s paintings has shapes, of course, but no _representational_ shapes. Even Picasso’s Infanta is recognisably a girl wearing a dress, but all Klee gives us are rectangles. That does not mean that Klee has completely left the realm of representation. He just happens to have abstracted away much more than most artists.
 
@@ -70,15 +82,19 @@ So, instead of painting _a_ landscape, Klee paints a proto-landscape, an [underl
 
 The title _Fire in the Evening_, at least, gives us a visual image we can use as a territory to map Klee’s painting onto. In some other cases, though, the object of Klee’s painting is not a landscape, but a feeling:
 
-![Blühendes (Flowering),  Paul Klee. 1934, oil on canvas. Kunstmuseum Winterthur (picture taken while the work was on loan to the Fondation Beyeler, Riehen).](/assets/images/EC-Visual-Abstraction-Klee-Flowering.jpg)
-_Blühendes (Flowering), Paul Klee. 1934, oil on canvas. Kunstmuseum Winterthur (picture taken while the work was on loan to the Fondation Beyeler, Riehen)._
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Visual-Abstraction-Klee-Flowering.jpg" alt="Blühendes (Flowering), Paul Klee. 1934, oil on canvas. Kunstmuseum Winterthur (picture taken while the work was on loan to the Fondation Beyeler, Riehen)." />
+  <figcaption>Blühendes (Flowering), Paul Klee. 1934, oil on canvas. Kunstmuseum Winterthur (picture taken while the work was on loan to the Fondation Beyeler, Riehen).</figcaption>
+</figure>
 
 Here, Klee again uses a contrast of dark and light colours. Unlike _Fire in the Evening_, however, the contrast isn’t representational. Nobody goes looking for blooming flowers in the dark. Instead, the relationship between the technique — colour contrast — and the subject matter of the painting is [indexical](/writing-systems-and-abstraction) and metaphorical: light, spreading from the centre of the canvas to its edges, as a visual metaphor for spring after winter, and for creation out of darkness. The fractal-like quality of the small squares expanding outwards and into the larger squares contributes, too, to the sensation of growth. This, too, is an abstraction: Klee has found a way to express the _structure_, the _form_ of the idea of “flowering”, rather than a representation of it.
 
 Contrast is not the only technique that Klee used. Klee was an accomplished musician, and he understood that harmony was just as valuable a tool as contrast and dissonance:
 
-![Harmonie der nördlichen Flora (Harmony of the Northern Flora) , Paul Klee. 1927, oil on cardboard. Zentrum Paul Klee, Bern (picture taken while the work was on loan to the Fondation Beyeler, Riehen).](/assets/images/EC-Visual-Abstraction-Klee-Harmony-Northern-Flora.jpg)
-_Harmonie der nördlichen Flora (Harmony of the Northern Flora), Paul Klee. 1927, oil on cardboard. Zentrum Paul Klee, Bern (picture taken while the work was on loan to the Fondation Beyeler, Riehen)._
+<figure>
+  <img src="/assets/images/EC-Visual-Abstraction-Klee-Harmony-Northern-Flora.jpg" alt="Harmonie der nördlichen Flora (Harmony of the Northern Flora) , Paul Klee. 1927, oil on cardboard. Zentrum Paul Klee, Bern (picture taken while the work was on loan to the Fondation Beyeler, Riehen)." />
+  <figcaption></figcaption>
+</figure>
 
 In _Harmony of the Northern Flora_, Paul Klee arranges his rectangles of colour such that they create an impression of vibrant coherence. It isn’t the case that he hasn’t used contrasting colours — we find blue next to orange, green next to red, yellow next to purple — but unlike _Fire in the Evening_ or _Flowering_, the colours have been arranged not to draw immediate attention to one particular section of the canvas.
 
@@ -88,8 +104,10 @@ What is it that Paul Klee has done here?
 
 Let’s take a look at the master painter of northern flora:
 
-![Großer Blumenstrauß (Big Bouquet) , Jan Brueghel the Elder. 1606/7, oil on wood. Alte Pinakothek, Munich. Picture taken from the Pinakotheken collections website , used under a CC-BY-SA-4.0 license.](/assets/images/EC-Visual-Abstraction-Bouquet-Jan-Brueghel.jpg)
-_Großer Blumenstrauß (Big Bouquet), Jan Brueghel the Elder. 1606/7, oil on wood. Alte Pinakothek, Munich. Picture taken from the Pinakotheken collections website, used under a CC-BY-SA-4.0 license._
+<figure>
+  <img src="/assets/images/EC-Visual-Abstraction-Bouquet-Jan-Brueghel.jpg" alt="Großer Blumenstrauß (Big Bouquet) , Jan Brueghel the Elder. 1606/7, oil on wood. Alte Pinakothek, Munich. Picture taken from the Pinakotheken collections website , used under a CC-BY-SA-4.0 license." />
+  <figcaption></figcaption>
+</figure>
 
 Jan Brueghel’s still life of flowers is representational and iconic. It resembles a bouquet of colourful flowers as they might exist in real life. Klee abstracted away everything but colour and geometric composition.
 

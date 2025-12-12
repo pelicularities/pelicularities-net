@@ -24,9 +24,10 @@ Horn Drill? I’ve played a lot of Gen 1 and 2 Pokémon, and Horn Drill is not a
 
 Off I went to watch a Pokémon speedrun. I found [Exarion](https://www.twitch.tv/exarionu)’s Pokémon Red world record run, and watched the whole thing:
 
+<figure>
 <iframe class="video" src="https://www.youtube.com/embed/XAXGQ8oywxM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Pokémon Red any% glitchless speedrun by Exarion in 1:50 IGT_
+<figcaption>Pokémon Red any% glitchless speedrun by Exarion in 1:50 IGT</figcaption>
+</figure>
 
 I was stunned. I’d never seen Pokémon played like this before, with a total, relentless focus on speed. I didn’t fully understand what was going on, but even with what I did understand, it was clear that this way of playing required a completely different perspective on gameplay than I’d ever thought about.
 
@@ -40,9 +41,10 @@ Speedrunning is far more complex than that, however. When I first watched Exario
 
 I was curious enough to dig deeper, and that’s what led me to [Shenanagans’s](https://www.twitch.tv/shenanagans_) run of Pokémon Blue at SGDQ 2015:
 
+<figure>
 <iframe class="video" src="https://www.youtube.com/embed/wtZ7CzbxBFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Pokémon Blue (151 Pokémon) by Shenanagans in 1:58:56_
+<figcaption>Pokémon Blue (151 Pokémon) by Shenanagans in 1:58:56</figcaption>
+</figure>
 
 That’s when I started to understand that the appeal of speedrunning wasn’t exclusively speed or skill; it was as much an intellectual exercise. It’s a self-imposed logic problem: given this piece of compiled code, what is the fastest way to get from A to B?
 
@@ -50,9 +52,10 @@ Seeing other highlights of speedrunning, such as Shenanagans’s [Pokémon Glitc
 
 Take a look at this superb breakdown of Kosmicd12’s Super Mario Bros world record run:
 
+<figure>
 <iframe class="video" src="https://www.youtube.com/embed/_FQJEzJ_cQw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_Bismuth explains how Kosmicd12 was able to beat Super Mario Bros in 4:56.462_
+<figcaption>Bismuth explains how Kosmicd12 was able to beat Super Mario Bros in 4:56.462</figcaption>
+</figure>
 
 When you look at the amount of planning, skill, and then the luck involved in trying to shave one frame off a 60fps game (i.e. 0.016s), that seems absolutely insane for something that has no evolutionary benefit that I can think of.
 

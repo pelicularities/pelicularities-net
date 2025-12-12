@@ -28,13 +28,17 @@ As I learnt more about programming, I heard terms like “assembly language”, 
 
 In high school physics, we learnt about these things called logic gates, which always seemed rather out of place to me in the physics curriculum. We’d get a diagram like this:
 
-![EC Layers of Abstraction 01 Half Adder.jpg](/assets/images/EC-Layers-of-Abstraction-01-Half-Adder.jpg)
-_A random circuit of logic gates_
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Layers-of-Abstraction-01-Half-Adder.jpg" alt="EC Layers of Abstraction 01 Half Adder.jpg" />
+  <figcaption>A random circuit of logic gates</figcaption>
+</figure>
 
 and we’d have to fill in a “truth table” like this:
 
-![EC Layers of Abstraction 02 Truth Table.jpg](/assets/images/EC-Layers-of-Abstraction-02-Truth-Table.jpg)
-_Not much physics going on here... or is there?_
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Layers-of-Abstraction-02-Truth-Table.jpg" alt="EC Layers of Abstraction 02 Truth Table.jpg" />
+  <figcaption>Not much physics going on here... or is there?</figcaption>
+</figure>
 
 The logic gate diagram consists of an XOR gate and an AND gate. Individually, these gates simply take two inputs, and give one output. The AND gate outputs TRUE if both its inputs are TRUE, and FALSE otherwise. The XOR gate outputs TRUE if both its inputs are the same, and outputs FALSE if its two inputs are different.
 
@@ -46,8 +50,10 @@ What’s 1 + 1?
 
 2, you might say. Well, you’d be correct in any number base except base two. In a binary number system, 1 + 1 = 10. Since a binary system has only 1s and 0s, you’d need to [carry over](https://en.wikipedia.org/wiki/Carry_(arithmetic)) the ones digit to the next column.
 
-![EC Layers of Abstraction 03 Binary.jpg](/assets/images/EC-Layers-of-Abstraction-03-Binary.jpg)
-_Adding binary numbers together_
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Layers-of-Abstraction-03-Binary.jpg" alt="EC Layers of Abstraction 03 Binary.jpg" />
+  <figcaption>Adding binary numbers together</figcaption>
+</figure>
 
 If you take the truth table from the logic gate diagram above, and replace TRUE with 1 and FALSE with 0, you’ll arrive at precisely the binary addition table above.
 
@@ -55,13 +61,17 @@ And so, out of the elemental logic gates XOR and AND, we have built a **half add
 
 The beautiful thing about this arrangement of logic gates is that it doesn’t have to be thought of purely in terms of AND, and XOR gates. You can arrange two half adders like this, for example, to get a **full adder** , which lets you add three binary digits together:
 
-![EC Layers of Abstraction 04 Full Adder.jpg](/assets/images/EC-Layers-of-Abstraction-04-Full-Adder.jpg)
-_Adding two half adders and an OR gate together_
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Layers-of-Abstraction-04-Full-Adder.jpg" alt="EC Layers of Abstraction 04 Full Adder.jpg" />
+  <figcaption>Adding two half adders and an OR gate together</figcaption>
+</figure>
 
 Then you can arrange full adders to make what are called **ripple-carry adders** , which let you add two binary numbers of any number of digits together. Here’s one that lets you add two 4-bit binary numbers together:
 
-![Nine (1001) plus fifteen (1111) equals twenty-four (11000)](/assets/images/EC-Layers-of-Abstraction-05-Ripple-Carry-Adder.jpg)
-_Nine (1001) plus fifteen (1111) equals twenty-four (11000)_
+<figure class="not-obnoxious">
+  <img src="/assets/images/EC-Layers-of-Abstraction-05-Ripple-Carry-Adder.jpg" alt="Nine (1001) plus fifteen (1111) equals twenty-four (11000)" />
+  <figcaption>Nine (1001) plus fifteen (1111) equals twenty-four (11000)</figcaption>
+</figure>
 
 Look, that thing can add up to 1 + 15 + 15!
 
@@ -154,13 +164,17 @@ A related type of cost is the [leaky abstraction](https://en.wikipedia.org/wiki/
 
 Modern life is full of abstractions, most of them leaky. Think about a subway map. Here’s Singapore’s:
 
-![Map from Singapore's Land Transport Authority website](/assets/images/EC-Layers-of-Abstraction-MRT-map.jpg)
-_Map from Singapore's Land Transport Authority website_
+<figure>
+  <img src="/assets/images/EC-Layers-of-Abstraction-MRT-map.jpg" alt="Map from Singapore's Land Transport Authority website" />
+  <figcaption>Map from Singapore's Land Transport Authority website</figcaption>
+</figure>
 
 Look at this section:
 
-![EC Layers of Abstraction MRT Town.jpg](/assets/images/EC-Layers-of-Abstraction-MRT-Town.jpg)
-_Close-up of the MRT map around Dhoby Ghaut_
+<figure>
+  <img src="/assets/images/EC-Layers-of-Abstraction-MRT-Town.jpg" alt="EC Layers of Abstraction MRT Town.jpg" />
+  <figcaption>Close-up of the MRT map around Dhoby Ghaut</figcaption>
+</figure>
 
 City Hall, Dhoby Ghaut and Newton are all are interchanges. City Hall is as good an interchange as I’ve ever seen in all my travelling: you get out of one train, cross the platform, and get onto the other train. That’s it. No stairs, no escalators, no long walkways. The abstraction is relatively leak-proof.
 
@@ -174,14 +188,20 @@ The North-East (purple) and Circle (yellow) lines were built next, and because t
 
 Finally, the Downtown (blue) line was built. In order to connect the Downtown line with the other lines in the system, the abstraction of the interchange had to be massaged even further, because the walkways to connect existing train lines to the Downtown line could not even be made to reasonably fit inside the fare gate boundaries. The abstraction of the interchange has sprung a leak, and the subway map reflects it accordingly by altering the graphic design of the interchange stops:
 
-![Interchange symbol on 2005 map](/assets/images/EC-Layers-of-Abstraction-Interchange-2005.jpg)
-_Interchange symbol on 2005 map_
+<figure>
+  <img src="/assets/images/EC-Layers-of-Abstraction-Interchange-2005.jpg" alt="Interchange symbol on 2005 map" />
+  <figcaption>Interchange symbol on 2005 map</figcaption>
+</figure>
 
-![Interchange symbol on 2017 map](/assets/images/IMG_0102-3.jpg)
-_Interchange symbol on 2017 map_
+<figure>
+  <img src="/assets/images/IMG_0102-3.jpg" alt="Interchange symbol on 2017 map" />
+  <figcaption>Interchange symbol on 2017 map</figcaption>
+</figure>
 
-![Public area interchange symbol on 2017 map](/assets/images/IMG_0102.jpg)
-_Public area interchange symbol on 2017 map_
+<figure>
+  <img src="/assets/images/IMG_0102.jpg" alt="Public area interchange symbol on 2017 map" />
+  <figcaption>Public area interchange symbol on 2017 map</figcaption>
+</figure>
 
 Leaky abstractions are bad from an operational point of view. They’re suboptimal, and they re-introduce irrelevant information into the system. When looking at the subway map and trying to figure out how to get from station A to station B, you don’t want to think about how far you have to walk at an interchange, how long the transfer might take, or whether you have to leave the station — all of which are really just additional abstractions on top of other things you don’t want to think about, like how much clearance a subway tunnel needs or how wide a walkway has to be to accommodate a rush-hour crowd.
 

@@ -64,6 +64,8 @@ Within the constraints of this form, any scenario is acceptable, however extreme
 
 In the light of this understanding, one could perhaps argue that Fulton and Pepe would have been able to tell a fine story regardless of what actually happened with Gilliam’s production. Like a fully-wound wind-up toy, all the parameters for an extremely dramatic story had already been set and all that was left was to watch the drama unfold. It did not matter exactly how the drama of the production played out – it was always going to be epic, with or without their direct involvement. All they had to do was to get out of the way and let the material make its own case. Most importantly, it was always going to dare the viewer to disbelieve its account of an epic drama, and turn out to be unbelievably true.
 
+* * *
+
 ### Works Cited
 - Cervantes, Miguel. _Don Quixote_. Trans. Edith Grossman. New York: Harper Perennial, 2005. Print.
 - French, Philip. “Down the shoot.” _The Guardian._ Guardian News and Media Limited. 4 Aug. 2002. Web. 30 Nov. 2010.

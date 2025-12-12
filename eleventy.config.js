@@ -29,11 +29,7 @@ export default function(eleventyConfig) {
 
     // Collection filters
     eleventyConfig.addFilter("filterUntagged", (posts) => {
-        // extract collection keys into their own array
-        // collections.post is the master set
-        // exclude tags "project" and "all" as special tags
-        // find the set of pages that belong in post but no other... wait
-        // can just find the set of untagged posts :kek:
+        // returns set of posts that are tagged only as "post"
         return posts.filter((post) => {
             return post.data.tags.length === 1
                 && post.data.tags[0] === "post";
