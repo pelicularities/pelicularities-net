@@ -32,7 +32,7 @@ And I started to realise, the real comparison here wasn’t speedrunning and spo
 
 As a kid, the stories of scientists that I read about tended to focus on the big breakthrough discoveries. I was especially interested in physics, and the history of early 20th century physics feels like it turns on a few major personalities: Max Born, Max Planck, Marie Curie — wait, how about this:
 
-<figure class="not-obnoxious">
+<figure>
 <img src="/assets/images/Solvay_conference_1927.jpg" alt="A photo of attendees of the Solvay Conference in 1927, including Schrödinger, Pauli, Heisenberg, Dirac, de Broglie, Born, Bohr, Planck, Curie, Lorentz and Einstein, among others." />
 <figcaption>Attendees of the <a href="https://en.wikipedia.org/wiki/Solvay_Conference#Fifth_conference">Solvay Conference</a> in 1927.</figcaption>
 </figure>

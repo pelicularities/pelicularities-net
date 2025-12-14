@@ -10,8 +10,10 @@ Thinking about little things that I've done or played with recently that I am at
 
 I purchased Adrian Cantrill's [AWS Certified Solutions Architect Associate course](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02) and wanted to break it down into smaller sections so I could plan my learning. The course is built on [Teachable](https://teachable.com/) and looks like this:
 
-![Image: Teachable Course Page, with list of lecture videos from Adrian Cantrill's AWS Certified Solutions Architect Associate course](/assets/images/2021-12-02-cantrill-teachable.png)
-_Teachable Course Page, with list of lecture videos from Adrian Cantrill's AWS Certified Solutions Architect Associate course_
+<figure>
+  <img src="/assets/images/2021-12-02-cantrill-teachable.png" alt="Image: Teachable Course Page, with list of lecture videos from Adrian Cantrill's AWS Certified Solutions Architect Associate course">
+  <figcaption>Teachable Course Page, with list of lecture videos from Adrian Cantrill's AWS Certified Solutions Architect Associate course</figcaption>
+</figure>
 
 The lecture titles are there and so is the duration of each lecture. I wanted to get the title and duration of each into a spreadsheet, but there is no obvious way to do it. You can use an app like [TextSniper](https://textsniper.app/) which can extract text from screenshots and visual data, but since all the information I needed was actually contained in the HTML source of the Teachable course page, there was a cheaper and more interesting solution (at least more interesting to me): scrape the page.
 
@@ -89,8 +91,10 @@ Back to the problem at hand.
 
 I saved the HTML of the Teachable page locally and studied it. The lecture titles, it turns out, are really easy to extract:
 
-![Image: HTML code from Teachable's course page](/assets/images/2021-12-02-cantrill-html.png)
-_HTML code from Teachable's course page_
+<figure>
+  <img src="/assets/images/2021-12-02-cantrill-html.png" alt="Image: HTML code from Teachable's course page">
+  <figcaption>HTML code from Teachable's course page</figcaption>
+</figure>
 
 ```html
 <span class="lecture-name"> AWS Accounts - The basics (11:33) </span>
@@ -116,15 +120,19 @@ end
 
 Now `lecture_names` is simply an array of strings, each containing the video title and runtime:
 
-![Image: a list of video lecture titles from Adrian Cantrill's course, printed in the console](/assets/images/2021-12-02-cantrill-text.png)
-_List of video lecture titles from Cantrill's course printed in console_
+<figure>
+  <img src="/assets/images/2021-12-02-cantrill-text.png" alt="Image: a list of video lecture titles from Adrian Cantrill's course, printed in the console">
+  <figcaption>List of video lecture titles from Cantrill's course printed in console</figcaption>
+</figure>
 
 ### Separating Title And Runtime
 
 The next step is to identify which portion of the text is the title, and which is the runtime. For this, there is a powerful tool, loved by some and feared by most:
 
-![Image: playing with regular expressions on regexr.com](/assets/images/2021-12-02-regexr.png)
-_Regular Expressions on regexr.com_
+<figure>
+  <img src="/assets/images/2021-12-02-regexr.png" alt="Image: playing with regular expressions on regexr.com">
+  <figcaption>Regular Expressions on regexr.com</figcaption>
+</figure>
 
 This is the view from [regexr](https://regexr.com/), my favourite tool for writing regular expressions. It breaks down what exactly the regular expression is parsing, highlights where the matches are, and allows you to write tests to check the regex against.
 
@@ -198,5 +206,7 @@ $ ruby nokogiri.rb > lecture_list.tsv
 
 Voilà, a file that I can import into Excel or Google Sheets, and use to make a study plan.
 
-![Image: a list of video lecture titles and runtimes in Google Sheets](/assets/images/2021-12-02-google-sheets.png)
-_List of video lecture titles and runtimes in Google Sheets_
+<figure>
+  <img src="/assets/images/2021-12-02-google-sheets.png" alt="Image: a list of video lecture titles and runtimes in Google Sheets">
+  <figcaption>List of video lecture titles and runtimes in Google Sheets</figcaption>
+</figure>

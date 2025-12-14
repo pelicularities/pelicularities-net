@@ -82,7 +82,9 @@ This is implemented using Stimulus and Rails helpers, but it should be fairly ea
 
 The purpose of passing this information over to the /eateries/:id page is to warn the user if they have exceeded their desired macros. We discussed how to do this given the limited real estate of a mobile screen, and settled on using a collapse that could be displayed or hidden by clicking on a warning icon:
 
-![](/assets/images/0KzcZi2Oa.png)
+<figure>
+  <img src="/assets/images/0KzcZi2Oa.png">
+</figure>
 
 Remember, in StimulusJS, the state lives in the DOM. This made the warning message a convenient place to store the state of the user's macros:
 

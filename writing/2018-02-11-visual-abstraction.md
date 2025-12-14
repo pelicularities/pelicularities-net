@@ -8,7 +8,7 @@ permalink: /visual-abstraction/
 ---
 Let’s take a look today at a section of a very famous painting:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Infanta-Velazquez.jpg" alt="The Infanta Margarita Teresa from Las Meninas , Diego Velázquez. 1656, oil on canvas. Museo del Prado, Madrid. Full, high-resolution picture available on the Prado Museum's website ." />
   <figcaption>The Infanta Margarita Teresa from Las Meninas, Diego Velázquez. 1656, oil on canvas. Museo del Prado, Madrid. Full, high-resolution picture available on the Prado Museum's website.</figcaption>
 </figure>
@@ -17,7 +17,7 @@ This is part of Diego Velázquez’s 1656 masterpiece, _Las Meninas_.
 
 Look at the detail in Velázquez’s painting: the brushstrokes in the hair, the shadows of the folds of the Infanta’s skirt the way light comes off the red cup and off the Infanta’s face. Naturally, the technique to create these effects were well-understood by Velázquez’s time — it’s not as if he was the only painter capable of rendering life-like figures — but I want you to pay attention to the sheer amount of _work_ needed to produce this painting in comparison to the homage made by a much later Spanish master, also considered to be on the vanguard of art for his time:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Infanta-Picasso.jpg" alt="Las Meninas (Infanta Margarida Maria), Pablo Picasso. 1957, oil on canvas. Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso ." />
   <figcaption>Las Meninas (Infanta Margarida Maria), Pablo Picasso. 1957, oil on canvas. Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso.</figcaption>
 </figure>
@@ -34,12 +34,12 @@ If we go too far to the symbolic end of the scale, that structure becomes entire
 
 Let’s return to Velázquez and Picasso for a moment.
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Infanta-Velazquez-1.jpg" alt="EC Visual Abstraction Infanta Velazquez" />
   <figcaption>The Infanta Margarita Teresa from Las Meninas, Diego Velázquez.</figcaption>
 </figure>
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Infanta-Picasso-1.jpg" alt="EC Visual Abstraction Infanta Picasso" />
   <figcaption>Las Meninas (Infanta Margarida Maria), Pablo Picasso.</figcaption>
 </figure>
@@ -50,7 +50,7 @@ By abstracting these elements away, Picasso reveals, essentially, a wireframe of
 
 In fact, his sketches reveal an even more abstracted version of _Las Meninas_, including an even more brutally abstract Infanta:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Infanta-Crop-Picasso.jpg" alt="Crop of the Infanta Margarita Teresa from Sketch for &quot;Las Meninas&quot;, Pablo Picasso. 1957, blue pencil on paper (page from a sketchbook). Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso." />
   <figcaption>Crop of the Infanta Margarita Teresa from Sketch for "Las Meninas", Pablo Picasso. 1957, blue pencil on paper (page from a sketchbook). Museu Picasso, Barcelona. Picture taken from Museu Picasso's blog post, The chronology of Las Meninas of Picasso.</figcaption>
 </figure>
@@ -65,7 +65,7 @@ It looks like a child’s drawing, doesn’t it? That’s perhaps one of the gre
 
 What happens when you remove shape from the equation, and leave only colour?
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Klee-Feuer-Abends.jpg" alt="Feuer Abends (Fire in the Evening) , Paul Klee. 1929, oil on cardboard. Museum of Modern Art, New York City (picture taken while the work was on loan to the Fondation Beyeler, Riehen)." />
   <figcaption>Feuer Abends (Fire in the Evening), Paul Klee. 1929, oil on cardboard. Museum of Modern Art, New York City (picture taken while the work was on loan to the Fondation Beyeler, Riehen).</figcaption>
 </figure>
@@ -82,7 +82,7 @@ So, instead of painting _a_ landscape, Klee paints a proto-landscape, an [underl
 
 The title _Fire in the Evening_, at least, gives us a visual image we can use as a territory to map Klee’s painting onto. In some other cases, though, the object of Klee’s painting is not a landscape, but a feeling:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Visual-Abstraction-Klee-Flowering.jpg" alt="Blühendes (Flowering), Paul Klee. 1934, oil on canvas. Kunstmuseum Winterthur (picture taken while the work was on loan to the Fondation Beyeler, Riehen)." />
   <figcaption>Blühendes (Flowering), Paul Klee. 1934, oil on canvas. Kunstmuseum Winterthur (picture taken while the work was on loan to the Fondation Beyeler, Riehen).</figcaption>
 </figure>

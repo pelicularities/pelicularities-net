@@ -12,14 +12,14 @@ First, we need to define our terms. The study of writing systems falls within th
 
 > For some people, a language, reduced to its essentials, is a nomenclature, a list of terms corresponding to a list of things... This conception is open to a number of objections... A linguistic sign is not a link between a thing and a name, but between a concept and a sound pattern. (trans. [Roy Harris](https://en.wikipedia.org/wiki/Roy_Harris_(linguist)))
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Linguistic-Sign.PNG" alt="EC Writing Systems Linguistic Sign.PNG" />
   <figcaption>Linguistic sign = link between concept and sound pattern</figcaption>
 </figure>
 
 Several paragraphs later, in order to avoid the possibility of a “sign” being conflated with its constituent “sound pattern”, Saussure replaces “concept” and “sound pattern” with _signifié”_, “signified”, and _signifiant_, “signifier” (Roy Harris’s translation renders these as “signification” and “signal”, but I’ll go with “signified” and “signifier”, which is the [more well-known rendition](https://en.wikipedia.org/wiki/Signified_and_signifier).)
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Sign.PNG" alt="EC Writing Systems Sign.PNG" />
   <figcaption>Sign = link between signifier and signified</figcaption>
 </figure>
@@ -30,7 +30,7 @@ For Saussure, the linguistic sign has the particular property of being **arbitra
 
 > ... it is characteristic of symbols that they are never entirely arbitrary. They are not empty configurations. They show at least a vestige of natural connection between the signifier and the signified. For instance, our symbols of justice, the scales, could hardly be replaced by a chariot.
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Saussure-Symbols.PNG" alt="EC Writing Systems Saussure Symbols.PNG" />
   <figcaption>Scales are a symbol (not a sign) of justice. Cutlery is a symbol (not a sign) of eating.</figcaption>
 </figure>
@@ -64,7 +64,7 @@ This is an analysis of Peirce through the lens of Saussure, which is perhaps unf
 
 What do these signifiers represent?
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Chinese-Logogram-Evolution.PNG" alt="EC Writing Systems Chinese Logogram Evolution.PNG" />
   <figcaption>Evolution of the Chinese writing system</figcaption>
 </figure>
@@ -81,7 +81,7 @@ Symbols, on the other hand, are primarily **abstract** : their relationship with
 
 Representational art and abstract art are often contrasted with each other, but our definitions of icons and symbols suggest that representational and abstract art, too, exist on two ends of the same scale:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Representational-Abstract.PNG" alt="EC Writing Systems Representational Abstract.PNG" />
   <figcaption>The dichotomy between representational art and abstract art is similar the spectrum between iconic and symbolic representation.</figcaption>
 </figure>
@@ -100,7 +100,7 @@ Now the question is: as representational, iconic signifiers gradually become abs
 
 A writing system differs from visual art in one key respect. If I draw a river, my drawing of a river is the signifier, and the thing it signifies is the idea of a river that looks reasonably similar. Looking at it, my river drawing will bring to your mind an image of what such a river might look like in real life.
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-River.PNG" alt="Does it? Does it??? (I had to draw something myself instead of choosing a Turner painting because it's not clear if photographs of old paintings are considered to be in the public domain.)" />
   <figcaption>Does it? Does it??? (I had to draw something myself instead of choosing a Turner painting because it's not clear if photographs of old paintings are considered to be in the public domain.)</figcaption>
 </figure>
@@ -111,14 +111,14 @@ Now, when it comes to writing systems, here’s what Saussure has to say:
 
 With a writing system, the signified is _not_ an image of the thing that exists in the real world. The signified is the _sound pattern_ of the word, the set of sounds that make up the spoken word. The sound pattern of the word, if you remember Saussure up top, is _itself_ a signifier that refers to the _concept_ that’s brought to mind when you hear the word. (You could say that a writing system is already one level of abstraction removed from drawing. _Ba-dum-tss!_)
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Orthography-Phonetics.PNG" alt="EC Writing Systems Orthography Phonetics.PNG" />
   <figcaption>From the concept of water to the sound of the concept to the written form of the sound.</figcaption>
 </figure>
 
 If we look at the progression of the Chinese writing system, the signifiers start out with curved lines. The strokes can move in any direction. It is the _shape_ of the signifier that matters; the relationship of individual strokes to one another is less important. Even then, there’s already a clear difference between the [oracle bone script](https://en.wikipedia.org/wiki/Oracle_bone_script) and the [bronzeware script](https://en.wikipedia.org/wiki/Chinese_bronze_inscriptions). The writing medium probably has something to do with this: the bronzeware inscriptions were made on wet clay molds before the bronze was cast, allowing for a greater level of detail and the use of more curved lines. On the other hand, oracle bone script tends to favour straight lines and simplified logograms (my preferred term for Chinese characters). The process of abstraction is already visible, even at this early stage.
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Chinese-Logogram-Evolution-1.PNG" alt="I saved you the trouble of scrolling up." />
   <figcaption>I saved you the trouble of scrolling up.</figcaption>
 </figure>
@@ -137,7 +137,7 @@ Effectively, the rectilinear scripts abstracted shapes and curves into lines, an
 
 Consider the numbers 1 to 4 in Chinese:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-1234.jpg" alt="EC Writing Systems 1234.jpg" />
   <figcaption>one 一 two 二 three 三 four 四</figcaption>
 </figure>
@@ -146,7 +146,7 @@ It’s easy to see how the logograms 一，二，三 came about: they’re visua
 
 It turns out that 四 is a **rebus**. Here’s the historical evolution of the written form of “four” in Chinese:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Four-Evolution.jpg" alt="EC Writing Systems Four Evolution.jpg" />
   <figcaption></figcaption>
 </figure>
@@ -157,7 +157,7 @@ The [reconstructed](https://en.wikipedia.org/wiki/Linguistic_reconstruction) Old
 
 The appearance of the rebus is significant. Just as a high-level programming language [abstracts away](/layers-of-abstraction/) entire layers of nitty-gritty computational data that slows humans down, rebuses in the Chinese writing system abstract away the need to create an iconic or ideographic logogram to represent each concept. We can think of this in terms of layers of abstraction, too:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Layers-of-Abstraction.PNG" alt="EC Writing Systems Layers of Abstraction.PNG" />
   <figcaption>The Writing System Layer Cake</figcaption>
 </figure>
@@ -166,7 +166,7 @@ The sound pattern layer is an abstraction sitting on top of the concept layer, a
 
 How would a reader differentiate 四 the number and 四 the body part, then? At first, there was no visual distinction made, and readers simply relied on context. This introduces a different difficulty — ambiguity — but that is mitigated by the fact that “four” is a far more common word in most languages than “nostrils” is.
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Mucus-Evolution.jpg" alt="EC Writing Systems Mucus Evolution.jpg" />
   <figcaption>The evolution of the word "mucus" in Chinese writing.</figcaption>
 </figure>
@@ -175,7 +175,7 @@ Over time, two things happened. One was that the word `*hljids` “nostrils” u
 
 The average educated Mandarin speaker knows about 8,000 logograms, and the overwhelming majority of them are modified rebuses like the above. Interestingly, modern word processors have obviated the need to remember how to _write_ all of them. People typing in Chinese type a romanised form of what they want to say, and a choice of logograms pops up; they only need to know how to recognise the logograms they want to use. Without regular handwriting, a phenomenon known as [character amnesia](https://en.wikipedia.org/wiki/Character_amnesia) occasionally surfaces, where the writer forgets how to write the logogram they meant to write. That’s not surprising, since the modern computer-based workflow effectively creates an alternative written layer, based on Mandarin’s relatively simple and constrained phonology, that competes with the expansive logographic system:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Writing-Systems-Character-Amnesia.PNG" alt="EC Writing Systems Character Amnesia.PNG" />
   <figcaption>Much easier to type hanyupinyin and choose from the logograms the computer offers to you, than it is to write logograms from memory!</figcaption>
 </figure>

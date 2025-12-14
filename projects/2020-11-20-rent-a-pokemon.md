@@ -22,8 +22,10 @@ Naturally, this project built on many of the skills we put into practice in Mist
 
 - **Database design:** the database schema gets a bit more complex, with five models and more associations between models:
 
-![](/assets/images/AQfSRzdLx.png)
-_Schema design for Rent-a-Pokémon_
+<figure>
+  <img src="/assets/images/AQfSRzdLx.png">
+  <figcaption>Schema design for Rent-a-Pokémon</figcaption>
+</figure>
 
 - **Data retrieval using an API:** we used the excellent [PokeAPI](https://pokeapi.co/) to populate our Pokédex models. For the sake of simplicity, we seeded only five species of Pokémon during development and 50 for our project demo. Don't worry, I rectified that in Rent-a-Pokémon Redux, with all 151 Generation I Pokémon in the seed.
 - **RESTful routing:** not only did we have more RESTful routes to implement this time, but we had nested routes for the first time during our bootcamp:

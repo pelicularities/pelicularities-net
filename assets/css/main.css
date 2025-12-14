@@ -27,7 +27,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block; }
 
-figure, figcaption {
+figure {
   margin: 1rem auto;
 }
 
@@ -37,9 +37,9 @@ figure > * {
   max-width: 100%;
 }
 
-/* set max width for images that don't need
- to be full width */
-figure.not-obnoxious > img {
+/* sensible default: set max width for images
+that don't need to be full width */
+figure > img {
   max-width: min(100%, 560px);
 
 }

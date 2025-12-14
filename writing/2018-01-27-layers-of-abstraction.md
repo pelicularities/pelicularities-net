@@ -28,14 +28,14 @@ As I learnt more about programming, I heard terms like “assembly language”, 
 
 In high school physics, we learnt about these things called logic gates, which always seemed rather out of place to me in the physics curriculum. We’d get a diagram like this:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Layers-of-Abstraction-01-Half-Adder.jpg" alt="EC Layers of Abstraction 01 Half Adder.jpg" />
   <figcaption>A random circuit of logic gates</figcaption>
 </figure>
 
 and we’d have to fill in a “truth table” like this:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Layers-of-Abstraction-02-Truth-Table.jpg" alt="EC Layers of Abstraction 02 Truth Table.jpg" />
   <figcaption>Not much physics going on here... or is there?</figcaption>
 </figure>
@@ -50,7 +50,7 @@ What’s 1 + 1?
 
 2, you might say. Well, you’d be correct in any number base except base two. In a binary number system, 1 + 1 = 10. Since a binary system has only 1s and 0s, you’d need to [carry over](https://en.wikipedia.org/wiki/Carry_(arithmetic)) the ones digit to the next column.
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Layers-of-Abstraction-03-Binary.jpg" alt="EC Layers of Abstraction 03 Binary.jpg" />
   <figcaption>Adding binary numbers together</figcaption>
 </figure>
@@ -61,14 +61,14 @@ And so, out of the elemental logic gates XOR and AND, we have built a **half add
 
 The beautiful thing about this arrangement of logic gates is that it doesn’t have to be thought of purely in terms of AND, and XOR gates. You can arrange two half adders like this, for example, to get a **full adder** , which lets you add three binary digits together:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Layers-of-Abstraction-04-Full-Adder.jpg" alt="EC Layers of Abstraction 04 Full Adder.jpg" />
   <figcaption>Adding two half adders and an OR gate together</figcaption>
 </figure>
 
 Then you can arrange full adders to make what are called **ripple-carry adders** , which let you add two binary numbers of any number of digits together. Here’s one that lets you add two 4-bit binary numbers together:
 
-<figure class="not-obnoxious">
+<figure>
   <img src="/assets/images/EC-Layers-of-Abstraction-05-Ripple-Carry-Adder.jpg" alt="Nine (1001) plus fifteen (1111) equals twenty-four (11000)" />
   <figcaption>Nine (1001) plus fifteen (1111) equals twenty-four (11000)</figcaption>
 </figure>
