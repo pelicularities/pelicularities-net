@@ -5,6 +5,7 @@ date: 2020-11-19
 excerpt: "Mister Cocktail is a classic Le Wagon project. Here's my interpretation from batch #454."
 tags: 
   - project
+  - le-wagon
 permalink: /mister-cocktail/
 ---
 _Now that [Heroku](https://www.heroku.com/) no longer has a free tier, the Mister Cocktail demo is no longer online._

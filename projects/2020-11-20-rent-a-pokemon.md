@@ -5,6 +5,7 @@ date: 2020-11-20
 excerpt: "Rent-a-Pokémon is a Le Wagon project that my team from batch #454 put together."
 tags: 
   - project
+  - le-wagon
 permalink: /rent-a-pokemon/
 ---
 _Now that [Heroku](https://www.heroku.com/) no longer has a free tier, the Rent-a-Pokemon demo is no longer online. You'll have to review the repo, the write-up and the screenshots._
@@ -18,7 +19,7 @@ At [Le Wagon](https://www.lewagon.com/), every student builds an Airbnb clone in
 
 Our group chose to build the Minimum Viable Product of a service that allows users to put up their Pokémon for rent, or to rent other users' Pokémon.
 
-Naturally, this project built on many of the skills we put into practice in Mister Cocktail:
+Naturally, this project built on many of the skills we put into practice in [Mister Cocktail](/mister-cocktail):
 
 - **Database design:** the database schema gets a bit more complex, with five models and more associations between models:
 

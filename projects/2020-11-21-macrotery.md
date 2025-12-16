@@ -5,6 +5,7 @@ date: 2020-11-21
 excerpt: "Macrotery is my team's final project from Le Wagon batch #454. The idea is simple: What if you could search for food at eateries based on their macros?"
 tags:
   - project
+  - le-wagon
 permalink: /macrotery/
 ---
 _Now that [Heroku](https://www.heroku.com/) no longer has a free tier, the Macrotery demo is no longer online. You'll have to review the repo, the write-up and the screenshots._
