@@ -69,8 +69,10 @@ So what is that "which line of code is the immediate cause of test failure" stuf
 
 As a case in point, I wrote a test in Jest and made it fail. Look at the information Jest gives me:
 
-![Image: Output from a failing test in Jest](/assets/images/2022-01-05-factorial-fail.png)
-_Output from a failing test in Jest_
+<figure>
+  <img src="/assets/images/2022-01-05-factorial-fail.png" alt="Output from a failing test in Jest" />
+  <figcaption>Output from a failing test in Jest</figcaption>
+</figure>
 
 Jest shows the expected result, the received (actual) result, and the line in the test defining the expected behaviour that didn't happen. In other words, Jest points you to the line of code _in the test_ that defines this as a failed test.
 
@@ -109,7 +111,7 @@ Rather irresponsibly, I commit this without running my tests ("it's just a toy c
 
 Now my teammate pulls the repo, runs the test file, and sees:
 
-```
+```text
 Passed
 Expected: 22.2
 Actual: 20
@@ -234,7 +236,7 @@ I've taken the opportunity to move the "Passed" message from the assertion block
 
 If the `testCode()` callback runs without throwing any exceptions, it passes. Otherwise, it fails. At this point, running our tests will produce this test output:
 
-```
+```text
 PASSED: convert inches to millimeters
 FAILED: convert kilograms to pounds
 Expected: 22.2, actual: 25.4
@@ -280,7 +282,7 @@ const test = (name, testCode) => {
 
 Now our test output looks like this:
 
-```
+```text
 PASSED: convert inches to millimeters
 FAILED: convert kilograms to pounds
 Error: Expected: 22.2, actual: 20

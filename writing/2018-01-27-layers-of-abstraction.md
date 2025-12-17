@@ -93,7 +93,7 @@ This is what computer scientists and software engineers refer to as _abstraction
 
 Even assembly is unwieldy. The Wikipedia page for [low-level programming language](https://en.wikipedia.org/wiki/Low-level_programming_language) gives an example of a Fibonacci calculator written in x86 assembly (it should be noted that there’s no one “assembly language” — each CPU architecture has its own):
 
-```
+```nasm
 fib:
   mov edx, [esp+8]
   cmp edx, 0

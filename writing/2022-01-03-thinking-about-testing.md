@@ -12,8 +12,10 @@ Over the course of my last project, I found myself examining many of my own impl
 
 This is a simple question, but the first time I heard it posed was a couple weeks ago, while watching Kent C. Dodd's Assert.js workshop from 2018:
 
+<figure>
 <iframe class="video" src="https://www.youtube.com/embed/VQZx1Z3sW0E?start=1316&amp;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-_Kent C. Dodds talks about testing software_
+<figcaption>Kent C. Dodds talks about testing software</figcaption>
+</figure>
 
 I was actually befuddled by this question, because I'd never thought about it! Up until mid December, the way I thought about tests was primarily in terms of frameworks and levels of the [test pyramid](https://martinfowler.com/bliki/TestPyramid.html).
 
@@ -98,7 +100,7 @@ printf("%d\n", expected == actual);
 
 Imagine ten of these tests:
 
-```
+```text
 1
 1
 1
