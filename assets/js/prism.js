@@ -5304,7 +5304,9 @@ Prism.languages.sql = {
 		if (!language) {
 			return;
 		}
-		var element = document.createElement('span');
+		var element = document.createElement('button');
+		element.classList.add('show-language');
+		element.classList.add('small');
 		element.textContent = language;
 
 		return element;
@@ -6310,8 +6312,8 @@ Prism.languages.sql = {
 		var settings = getSettings(element);
 
 		var linkCopy = document.createElement('button');
-		linkCopy.className = 'copy-to-clipboard-button';
-		linkCopy.setAttribute('type', 'button');
+		linkCopy.classList.add('copy-to-clipboard-button');
+		linkCopy.classList.add('small');
 		var linkSpan = document.createElement('span');
 		linkCopy.appendChild(linkSpan);
 
